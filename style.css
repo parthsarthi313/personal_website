@@ -31,7 +31,7 @@ a:hover {
   color: #ff2a4a;
 }
 .banner {
-  background:url("/leon-ynQnpqyrLC0-unsplash.jpg");
+  background:url("./leon-ynQnpqyrLC0-unsplash.jpg");
   background-size: cover;
   height: 1000px;
 }
@@ -40,7 +40,7 @@ a:hover {
   height: 1000px;
 }
 .skills {
-  background:url("/ferenc-almasi-eYpcLDXHVb0-unsplash.jpg");
+  background:url("./ferenc-almasi-eYpcLDXHVb0-unsplash.jpg");
   background-size: cover;
   min-height: 100%;
   padding-bottom: 40px;
