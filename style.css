@@ -310,7 +310,7 @@ footer {
 	  border-color: #084461;
 }
 .btn-codechef{
-    background-image: url("/boiler.jpg");
+    background-image: url("./boiler.jpg");
     height: 55px;
     width: 58px;
     background-size: cover;
