@@ -1,0 +1,61 @@
++917240446185 
+PARTHSARTHI NEEMA
+ parthsarthi313
+ parthsarthineema@gmail{dot}com 
+Education
+ parthsarthi-neema-428090192 
+Birla Institute Of Technology And Science(BITS), Pilani
+ B.E. (Hons.) Electrical and Electronics Engineering, CGPA: 7.98
+ Experience
+ 2019– 2023
+ Pilani, Rajasthan
+ Microsoft
+ Software Engineer(SWE)- L60
+ April 2025– Present
+ Hyderabad
+ • Collaborated with the Unified Support Pricing team in the C+AI division to design and deploy distributed systems
+ • Worked on the development of a single-source Offer Pricing configuration engine.
+ • Added the configuration of CosmosDB in the repository and worked end to end to deploy it.
+ • Monitored and optimized service performance with Logs and Application Insights.
+ • Tech Stack: C#, .NET, MySQL, CosmosDB, Azure
+ OfBusiness
+ Software Development Engineer(Full Stack)
+ July 2023– March 2025
+ Gurugram
+ • Worked on the development and enhancement of features for the Oasys website, an e-commerce CRM platform
+ specializing in raw materials.
+ • Implemented new features and enhancements to the Invoice and the Billing System, resulting in a 20% increase in
+ billing efficiency.- Used JMS Events to handle asynchronous calls, Rate limiters to limit 3rd party API calls
+ • Worked on the Organisation Onboarding flow, used to onboard B2B Organisations to the system- Used multiple
+ low-level design patterns like Factory, Observer, Builder and high level patterns like Event handling,
+ Transactions, Load Balancing through Nginx etc.
+ • Developed and deployed more than 50 APIs to support all the features, ensuring seamless integration and data flow with
+ DevOps- Used REST API’s and remote Dev machines through deployment on Jenkins
+ • Proactively resolved more than 50 production issues, maintaining the website’s functionality and enhancing user
+ experience.
+ • Tech Stack: Java, SpringBoot, Elastic Search, MySQL, Postman, JavaScript, ReactJs,
+ Other Work experience
+ Interns
+ • Accern AI(SDE Intern)- Fullstack SDE Intern. Jan 2023- July 2023
+ • Accern AI(Summer Intern)- worked on CI/CD pipelines. May 2022-July 2022
+ • GitHub- Recommender system for energy prediction. Jan 2022-April 2022
+ Aug 2019– Aug 2022
+ • Research- C.S. Dept.- BITS PILANI- K-means and K-medoid clustering optimization. Jan 2021-Dec 2021
+ • Amazon : Summer school(cohort Intern)- part of machine learning summer school as part of Amazon’s cohort Oct
+ 2021-Nov 2021
+ Technical Skills
+ Languages: Java, C++, Javascript, Python
+ Frameworks/Libraries: SpringBoot, REST APIs, ReactJs, GraphQL
+ Others: MySQL, Redis, Elasticsearch, Git, Postman, Jira, Docker, Kafka
+ Projects
+ Expense Management System | Java, SpringBoot, ReactJs, Javascript, REST APIs, MySQL
+ 2023
+ Led a team of six in developing a comprehensive expense management system, covering travel requests and
+ expenses.- Streamlined the approval process, reducing processing time.
+ Recommender Systems for Energy Consumption (GitHub) | Python, NLP, Machine Learning, Statistics
+ 2022
+ Implemented NLP-based recommender systems for energy prediction, contributing to a increase in prediction
+ accuracy.
+ Achievements
+ 1808(4*) Max Rating — Codechef
+ ICPC(International Collegiate Programming Contest) Regionalist

@@ -1,0 +1,1 @@
+Place the provided personal photo in this project root named 'profile.jpg'. The HTML references profile.jpg for the circular profile image.
